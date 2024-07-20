@@ -10,7 +10,7 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
 
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Avishka Priyasad. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -64,8 +64,7 @@
 
 <br>
 
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
