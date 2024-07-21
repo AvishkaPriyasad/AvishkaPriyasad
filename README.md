@@ -8,7 +8,7 @@
 </p>
 
 
-<div size='20px'> Hi! My name is Avishka Priyasad. Thank You for taking the time to view my GitHub Profile  
+<div size='20px'> Hi! My name is Avishka Priyasad. Thank You for taking the time to view my GitHub Profile.  
 </div>
 
 <h2> About Me </h2>
@@ -16,9 +16,9 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 
-- 📖 I’m currently studying at  Uva Welassa University of Sri Lanka
+- 📖 I’m currently studying at  Uva Welassa University of Sri Lanka.
   
-- ✨  I’m currently learning Git, Java y GitHub
+- ✨  I’m currently learning Git and Java.
   
 - 🌱 I am learning a lot and believe every day is a learning opportunity.
   
@@ -30,13 +30,12 @@
 
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,spring,mysql,laravel,git,bootstrap,vscode,docker,kubernetes,aws,wordpress,ubuntu,linux&perline=10"  />
 </p>
 <br />
 
 <h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://medium.com/@avishkapriyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href="https://fb.com/Avishka Priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avishka priyasad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/avishka priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="30" width="40" /></a>
@@ -73,11 +72,12 @@
 </table>
 
 <!--Contribution Graph-->
+<!---
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvishkaPriyasad&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
-
+</div> 
+-->
 <!-- SUPPORT -->
 <p>
   <h3 align="left">Support:</h3>
