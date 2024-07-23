@@ -30,7 +30,7 @@
 
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,spring,mysql,laravel,git,bootstrap,vscode,docker,kubernetes,aws,wordpress,ubuntu,linux&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,spring,laravel,git,bootstrap,vscode,docker,aws,wordpress,ubuntu,linux&perline=10"  />
 </p>
 <br />
 
@@ -38,7 +38,7 @@
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://medium.com/@avishkapriyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href="https://fb.com/Avishka Priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avishka priyasad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/avishka priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="30" width="40" /></a>
   
 <br>
 <br>
@@ -88,12 +88,14 @@
 <br>
 
 -----
+<!---
 <div align="center">
  <b style = {font-weight: 400}>Visitors Count</b>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AvishkaPriyasad}/count.svg" /></p> 
 <br>
 </div>
+-->
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
