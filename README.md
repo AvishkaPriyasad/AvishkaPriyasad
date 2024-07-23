@@ -30,7 +30,7 @@
 
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,spring,laravel,git,bootstrap,vscode,docker,aws,wordpress,ubuntu,linux&perline=10"  />
+<img width="400px"  src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,vscode,docker,wordpress,linux&perline=6"  />
 </p>
 <br />
 
