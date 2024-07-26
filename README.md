@@ -35,10 +35,10 @@
 <br />
 
 <h2> Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
-<a href = 'https://medium.com/@avishkapriyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://fb.com/Avishka Priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avishka priyasad" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="30" width="40" /></a>
+<a href = 'https://medium.com/@avishkapriyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
+<a href="https://www.hackerrank.com" target="blank"><img width = '40px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="50" width="60" /></a>
   
 <br>
 <br>
