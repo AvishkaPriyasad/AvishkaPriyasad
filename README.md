@@ -43,14 +43,14 @@
 
 | ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&theme=tokyonight) | ![Avishka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvinsara23&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 <table width="100%">
     <tr>
         <td width="50%">
             <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="left">
-                <a href="https://github.com/Ruvinsara23/milano-restaurant">
-                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruvinsara23&repo=milano-restaurant&theme=nightowl&show_owner=true" alt="Milano Restaurant" />
+                <a href="https://github.com/AvishkaPriyasad">
+                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=emergicare&theme=nightowl&show_owner=true" alt="Emergicare" />
                 </a>
             </p>
         </td>
