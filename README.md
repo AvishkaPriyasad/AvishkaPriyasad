@@ -13,7 +13,7 @@
 
 - 📖 I’m currently studying at  Uva Welassa University of Sri Lanka.
   
-- 💻  I’m currently learning Git and Java.
+- 💻  I’m currently learning Git and Python.
   
 - ✨ I am learning a lot and believe every day is a learning opportunity.
   
@@ -32,6 +32,8 @@
 <h2> Connect with Me : </h2>
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://fb.com/Avishka Priyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avishka priyasad" height="30" width="40" /></a>
+<a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="avishka priyasad" height="30" width="40" /></a>
+
 <a href = 'https://medium.com/@avishkapriyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
 <a href="https://www.hackerrank.com" target="blank"><img width = '40px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avishka priyasad" height="50" width="60" /></a>
 
