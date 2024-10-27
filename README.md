@@ -25,8 +25,9 @@
 
 
 <p align="left">
-<img width="300px" src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,vscode,docker,wordpress,linux&perline=6"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,mysql,nodejs,mongodb,vscode,wordpress,figma,linux,docker,git,postman,azure,jenkins&perline=20"  />
 </p>
+
 <br />
 
 <h2> Connect with Me : </h2>
