@@ -11,7 +11,7 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 
-- 📖 I’m currently studying at  Uva Welassa University of Sri Lanka.
+- 📖 I’m currently studying at  Uva Wellassa University of Sri Lanka.
   
 - 💻  I’m currently learning Git and Python.
   
@@ -25,7 +25,7 @@
 
 
 <p align="left">
-<img width="1100px" src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,mysql,nodejs,mongodb,vscode,wordpress,figma,linux,docker,git,postman,azure,jenkins&perline=20"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,php,js,react,c,py,java,mysql,mongodb,vscode,wordpress,linux,docker,git,postman,azure&perline=20"  />
 </p>
 
 <br />
