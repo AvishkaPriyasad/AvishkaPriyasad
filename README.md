@@ -11,15 +11,15 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 
-- 🎓 I’m currently studying at  Uva Wellassa University of Sri Lanka.
+- 🎓 I'm an Undergraduate at Uva Wellassa University of Sri Lanka.
   
-- 📃 I’m currently learning Git and Python.
+- 📖 I'm currently learning Git and Python.
   
 - ✨ I am learning a lot and believe every day is a learning opportunity.
   
 - ✍ I write technical blogs, You can visit my blog site at [Medium](https://medium.com/@avishkapriyasad).
     
-- 💻 I’m looking to collaborate on ...Open Source Projects.
+- 💻 I'm looking to collaborate on ...Open Source Projects.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
