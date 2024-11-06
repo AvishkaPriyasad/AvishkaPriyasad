@@ -51,7 +51,7 @@
             <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="left">
                 <a href="https://github.com/AvishkaPriyasad">
-                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=emergicare&theme=nightowl&show_owner=true" alt="Emergicare" />
+                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=GitHub-Docker-and-Jenkins-Cl-CD-Pipeline&theme=nightowl&show_owner=true" alt="DevOps" />
                 </a>
             </p>
         </td>
