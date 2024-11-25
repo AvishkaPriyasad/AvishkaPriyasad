@@ -13,7 +13,7 @@
 
 - 🎓 I'm an Undergraduate at Uva Wellassa University of Sri Lanka.
   
-- 📖 I'm currently learning Git and Python.
+- 📖 I'm currently learning DevOps.
   
 - ✨ I am learning a lot and believe every day is a learning opportunity.
   
