@@ -25,7 +25,7 @@
 
 
 <p align="left">
-<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,php,react,c,py,java,mysql,nodejs,mongodb,wordpress,linux,git,jenkins,docker,azure&perline=20"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,py,java,mysql,nodejs,mongodb,wordpress,linux,git,jenkins,docker,azure&perline=20"  />
 </p>
 
 <br />
