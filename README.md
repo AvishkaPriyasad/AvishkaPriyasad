@@ -33,7 +33,8 @@
 <h2> Connect with Me : </h2>
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avishka priyasad" height="30" width="40" /></a>
-<a href="https://avishkapriyasad.github.io/portfolio/" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+<a href="https://avishkapriyasad.github.io/portfolio/" target="blank"><img width = '32px' align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"/></a>
+<a href = 'https://stackoverflow.com/users/28728565/avishka-priyasad'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg"/></a>
 
 <br>
 <br>
