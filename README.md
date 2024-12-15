@@ -32,7 +32,7 @@
 
 <br />
 
-<h2> Connect with Me : 🤝</h2> <!--<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> -->
+<h2> Connect with Me : 🤝</h2> <!-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> -->
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"/></a>
 <a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/twitter-x.svg" alt="avishka priyasad" height="30" width="40" /></a>
 <a href = 'https://stackoverflow.com/users/28728565/avishka-priyasad'> <img width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg"/></a>
@@ -41,7 +41,7 @@
 
 <br>
 <br>
-<h2>My Sᴛᴀᴛs <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "35px"></h2>
+<h2 align="center">My Sᴛᴀᴛs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> <!-- <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "35px"></h2> -->
   <br> 
 
 <p align="center">
