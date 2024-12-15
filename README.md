@@ -6,6 +6,8 @@
 <div size='20px'> Hi! My name is Avishka Priyasad. Thank You for taking the time to view my GitHub Profile.  
 </div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=20&center=false&lines=Hey!+its+Avishka;Full+stack+developer...;DevOps+Enthusiast...;Tech+Blogger..."/>
+
 <h2> About Me </h2>
 
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
@@ -30,7 +32,7 @@
 
 <br />
 
-<h2> Connect with Me : </h2>
+<h2> Connect with Me : 🤝</h2> <!--<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> -->
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"/></a>
 <a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/twitter-x.svg" alt="avishka priyasad" height="30" width="40" /></a>
 <a href = 'https://stackoverflow.com/users/28728565/avishka-priyasad'> <img width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg"/></a>
@@ -39,20 +41,34 @@
 
 <br>
 <br>
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2>My Sᴛᴀᴛs <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = "35px"></h2>
   <br> 
 
+<p align="center">
+<table align="center" width="100%">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center" width="720" src="https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&theme=tokyonight&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-| ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&theme=tokyonight) | <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
-| --- | --- |
-| ![Avishka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight) | 
+  <img  align="center" width="340" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+
 <table width="100%">
     <tr>
         <td width="50%">
             <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="left">
                 <a href="https://github.com/AvishkaPriyasad">
-                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=GitHub-Docker-and-Jenkins-Cl-CD-Pipeline&theme=nightowl&show_owner=true" alt="DevOps" />
+                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=GitHub-Docker-and-Jenkins-Cl-CD-Pipeline&theme=nightowl" alt="DevOps" />
                 </a>
             </p>
         </td>
