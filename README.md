@@ -25,7 +25,7 @@
 
 
 <p align="left">
-<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,py,java,mysql,nodejs,mongodb,dart,flutter,wordpress,linux,git,jenkins,docker,aws&perline=20"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,py,java,mysql,nodejs,mongodb,dart,flutter,linux,git,jenkins,docker,aws&perline=20"  />
 </p>
 
 <br />
@@ -43,9 +43,9 @@
   <br> 
 
 
-| ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&theme=tokyonight) | ![Avishka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight) |
+| ![Avishka's github stats](https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&show_icons=true&theme=tokyonight) | <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> 
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight) |  |
+| ![Avishka GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight) | 
 <table width="100%">
     <tr>
         <td width="50%">
