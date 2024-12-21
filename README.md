@@ -13,7 +13,7 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 
-- 🎓 I'm an Undergraduate at Uva Wellassa University of Sri Lanka.
+- 🎓 I'm a third-year Undergraduate at Uva Wellassa University of Sri Lanka.
   
 - 📖 I'm currently learning DevOps.
   
