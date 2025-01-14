@@ -51,7 +51,7 @@
   
   <img  align="center" width="720" src="https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&theme=tokyonight&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight&hide_border=false"/> 
 </td>
 <td width="50%" align="center">
 
