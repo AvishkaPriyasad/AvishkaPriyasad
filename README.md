@@ -27,7 +27,7 @@
 
 
 <p align="left">
-<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,java,py,nodejs,mysql,mongodb,dart,flutter,androidstudio,wordpress,linux,git,jenkins,docker,aws&perline=20"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,mysql,java,spring,py,nodejs,express,mongodb,dart,flutter,androidstudio,firebase,wordpress,linux,git,jenkins,docker,aws&perline=20"  />
 </p>
 
 <br />
@@ -50,7 +50,7 @@
 <td width="50%" align="center">
   
   <img  align="center" width="720" src="https://github-readme-stats.vercel.app/api?username=AvishkaPriyasad&theme=tokyonight&show_icons=true&count_private=true" />
-  <br></br>
+  <br><br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AvishkaPriyasad&theme=tokyonight&hide_border=false"/> 
 </td>
 <td width="50%" align="center">
@@ -68,7 +68,7 @@
             <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="left">
                 <a href="https://github.com/AvishkaPriyasad">
-                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=GitHub-Docker-and-Jenkins-Cl-CD-Pipeline&theme=nightowl" alt="DevOps" />
+                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=BankApp-SpringBoot&theme=nightowl" alt="DevOps" />
                 </a>
             </p>
         </td>
