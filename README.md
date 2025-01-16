@@ -27,7 +27,7 @@
 
 
 <p align="left">
-<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,mysql,java,spring,py,nodejs,express,mongodb,dart,flutter,androidstudio,firebase,wordpress,linux,git,jenkins,docker,aws&perline=20"  />
+<img width="1100px" src="https://skillicons.dev/icons?i=html,css,js,react,php,c,mysql,java,spring,py,tailwind,nodejs,express,mongodb,dart,flutter,androidstudio,firebase,wordpress,linux,git,jenkins,docker,aws&perline=24"  />
 </p>
 
 <br />
