@@ -31,7 +31,7 @@
   <tr border="none">
     <td width="50%" align="center"><h3> Front-end:</h3>
   
-<img width="300px" src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind&perline=10"  /></td>
+<img width="250px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10"  /></td>
     <td width="50%" align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
@@ -57,7 +57,7 @@
   <tr>
     <td align="center"> <h3> DevOps:</h3>
 
-<img width="350px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,azure,aws&perline=10"  /></td>
+<img width="550px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,terraform,githubactions,azure,aws&perline=10"  /></td>
 <td width="50%" align="center">
  <h3> Mobile App Development:</h3>
 
@@ -89,11 +89,11 @@
 <br />
 
 <h2> Connect with Me : 🤝</h2> <!-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> -->
-<a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"/></a>
-<a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/twitter-x.svg" alt="avishka priyasad" height="30" width="40" /></a>
+<a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"/></a> 
+<a href="https://x.com/AvishkaPriyasad" target="blank"><img width = '32px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/twitter-x.svg" alt="avishka priyasad" height="27" width="40" /></a>
 <a href = 'https://stackoverflow.com/users/28728565/avishka-priyasad'> <img width = '28px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/stack-overflow.svg"/></a>
 <a href="https://avishkapriyasad.github.io/portfolio/" target="blank"><img width = '37px' align="center" src="https://github.com/AvishkaPriyasad/portfolio/blob/8bbe97214fe9ea7c356e49a61afb46ccc5c7d877/Images/logoicon.png"/></a>
-
+<a href="https://medium.com/@avishkapriyasad" target="blank"><img width = '37px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/medium.svg"/></a>
 
 <br>
 <br>
