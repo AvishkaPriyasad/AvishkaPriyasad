@@ -27,7 +27,7 @@
 
 
 <p align="left">
-<table align="center" width="100%">
+<table width="100%">
   <tr border="none">
     <td width="50%" align="center"><h3> Front-end:</h3>
   
@@ -50,18 +50,18 @@
   <td width="50%" align="center">
        <h3> Version Control:</h3>
 
-  <img width="45px" src="https://skillicons.dev/icons?i=git&perline=10"  />
+  <img width="43px" src="https://skillicons.dev/icons?i=git&perline=10"  />
   </td>
     
   </tr>
   <tr>
-    <td width="50%" align="center"> <h3> DevOps:</h3>
+    <td align="center"> <h3> DevOps:</h3>
 
-<img width="210px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,aws&perline=10"  /></td>
+<img width="350px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,azure,aws&perline=10"  /></td>
 <td width="50%" align="center">
  <h3> Mobile App Development:</h3>
 
-<img width="210px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&perline=10"  />
+<img width="200px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&perline=10"  />
  
 </td>
    
@@ -71,7 +71,7 @@
   <td width="50%" align="center">
     <h3> Other Tools:</h3>
 
-<img width="210px" src="https://skillicons.dev/icons?i=postman,wordpress,vscode,idea&perline=10"  />
+<img width="200px" src="https://skillicons.dev/icons?i=postman,wordpress,vscode,idea&perline=10"  />
 </p>
   </td>
     
