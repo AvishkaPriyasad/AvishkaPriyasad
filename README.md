@@ -27,12 +27,12 @@
 
 
 <p align="left">
-<table>
-  <tr>
-    <td><h3> Front-end:</h3>
+<table align="center" width="100%">
+  <tr border="none">
+    <td width="50%" align="center"><h3> Front-end:</h3>
   
 <img width="300px" src="https://skillicons.dev/icons?i=html,css,js,php,react,tailwind&perline=10"  /></td>
-    <td><h3> Back-end:</h3>
+    <td width="50%" align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
   <img width="45px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
@@ -44,10 +44,10 @@
 </div></td>
   </tr>
   <tr>
-    <td><h3> Databases:</h3>
+    <td width="50%" align="center"><h3> Databases:</h3>
 
 <img width="100px" src="https://skillicons.dev/icons?i=mysql,mongo&perline=10"  /></td>
-  <td>
+  <td width="50%" align="center">
        <h3> Version Control:</h3>
 
   <img width="45px" src="https://skillicons.dev/icons?i=git&perline=10"  />
@@ -55,10 +55,10 @@
     
   </tr>
   <tr>
-    <td> <h3> DevOps:</h3>
+    <td width="50%" align="center"> <h3> DevOps:</h3>
 
 <img width="210px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,aws&perline=10"  /></td>
-<td>
+<td width="50%" align="center">
  <h3> Mobile App Development:</h3>
 
 <img width="210px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&perline=10"  />
@@ -68,8 +68,8 @@
 
   </tr>
   <tr>
-  <td>
-    <h3> Other:</h3>
+  <td width="50%" align="center">
+    <h3> Other Tools:</h3>
 
 <img width="210px" src="https://skillicons.dev/icons?i=postman,wordpress,vscode,idea&perline=10"  />
 </p>
