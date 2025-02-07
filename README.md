@@ -47,35 +47,27 @@
     <td width="50%" align="center"><h3> Databases:</h3>
 
 <img width="100px" src="https://skillicons.dev/icons?i=mysql,mongo&perline=10"  /></td>
-  <td width="50%" align="center">
-       <h3> Version Control:</h3>
+  <td align="center"> <h3> DevOps:</h3>
 
-  <img width="43px" src="https://skillicons.dev/icons?i=git&perline=10"  />
-  </td>
+  <img width="550px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,terraform,githubactions,azure,aws&perline=10"  /></td>
     
   </tr>
   <tr>
-    <td align="center"> <h3> DevOps:</h3>
-
-<img width="550px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,terraform,githubactions,azure,aws&perline=10"  /></td>
+    
 <td width="50%" align="center">
  <h3> Mobile App Development:</h3>
 
 <img width="200px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&perline=10"  />
  
 </td>
-   
-
-  </tr>
-  <tr>
-  <td width="50%" align="center">
+   <td width="50%" align="center">
     <h3> Other Technologies:</h3>
 
 <img width="200px" src="https://skillicons.dev/icons?i=postman,wordpress,vscode,idea&perline=10"  />
-</p>
   </td>
-    
+
   </tr>
+
 </table>
 
 
