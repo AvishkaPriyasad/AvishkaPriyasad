@@ -63,7 +63,7 @@
    <td width="50%" align="center">
     <h3> Other Technologies:</h3>
 
-<img width="200px" src="https://skillicons.dev/icons?i=postman,wordpress,vscode,idea,net&perline=10"  />
+<img width="200px" src="https://skillicons.dev/icons?i=postman,wordpress,git,vscode,idea&perline=10"  />
   </td>
 
   </tr>
