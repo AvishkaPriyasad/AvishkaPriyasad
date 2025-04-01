@@ -15,7 +15,7 @@
 
 - 🎓 I'm a third-year Undergraduate at Uva Wellassa University of Sri Lanka.
   
-- 📖 I'm currently learning DevOps.
+- 📖 I'm currently learning Full Stack Development.
   
 - ✨ I am learning a lot and believe every day is a learning opportunity.
   
@@ -46,10 +46,10 @@
   <tr>
     <td width="50%" align="center"><h3> Databases:</h3>
 
-<img width="100px" src="https://skillicons.dev/icons?i=mysql,mongo&perline=10"  /></td>
+<img width="150px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  /></td>
   <td align="center"> <h3> DevOps:</h3>
 
-  <img width="550px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,bash,terraform,githubactions,azure,aws&perline=10"  /></td>
+  <img width="220px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,azure,aws&perline=10"  /></td>
     
   </tr>
   <tr>
@@ -57,13 +57,13 @@
 <td width="50%" align="center">
  <h3> Mobile App Development:</h3>
 
-<img width="200px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,firebase&perline=10"  />
+<img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
  
 </td>
    <td width="50%" align="center">
     <h3> Other Technologies:</h3>
 
-<img width="300px" src="https://skillicons.dev/icons?i=postman,wordpress,git,vscode,idea,photoshop&perline=10"  />
+<img width="220px" src="https://skillicons.dev/icons?i=git,postman,wordpress,vscode,idea&perline=10"  />
   </td>
 
   </tr>
@@ -116,7 +116,7 @@
             <h3 align="left"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
             <p align="left">
                 <a href="https://github.com/AvishkaPriyasad">
-                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=BankApp-SpringBoot&theme=nightowl" alt="DevOps" />
+                  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/pin/?username=AvishkaPriyasad&repo=Travel-Website&theme=nightowl" alt="DevOps" />
                 </a>
             </p>
         </td>
