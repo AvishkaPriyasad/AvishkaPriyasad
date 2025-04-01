@@ -47,9 +47,9 @@
     <td width="50%" align="center"><h3> Databases:</h3>
 
 <img width="150px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  /></td>
-  <td align="center"> <h3> DevOps:</h3>
+  <td align="center"> <h3> Version Control:</h3>
 
-  <img width="220px" src="https://skillicons.dev/icons?i=jenkins,docker,linux,azure,aws&perline=10"  /></td>
+  <img width="40px" src="https://skillicons.dev/icons?i=git&perline=10"  /></td>
     
   </tr>
   <tr>
@@ -61,9 +61,9 @@
  
 </td>
    <td width="50%" align="center">
-    <h3> Other Technologies:</h3>
+    <h3> Other Tools & Platforms:</h3>
 
-<img width="220px" src="https://skillicons.dev/icons?i=git,postman,wordpress,vscode,idea&perline=10"  />
+<img width="220px" src="https://skillicons.dev/icons?i=postman,jenkins,docker,azure,aws&perline=10"  />
   </td>
 
   </tr>
