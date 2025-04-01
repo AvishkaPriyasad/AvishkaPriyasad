@@ -6,7 +6,7 @@
 <div size='20px'> Hi! My name is Avishka Priyasad. Thank You for taking the time to view my GitHub Profile.  
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=20&center=false&lines=Hey!+its+Avishka;Full+stack+developer...;DevOps+Enthusiast...;Tech+Blogger..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=20&center=false&lines=Hey!+I'm+Avishka;Full+stack+developer...;Tech+Blogger..."/>
 
 <h2> About Me </h2>
 
