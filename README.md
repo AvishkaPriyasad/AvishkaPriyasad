@@ -52,7 +52,7 @@
   <tr>
     
 <td width="50%" align="center">
- <h3> Mobile App Development:</h3>
+ <h3> Mobile Development:</h3>
 
 <img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
  
