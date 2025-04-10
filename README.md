@@ -35,8 +35,8 @@
     <td width="50%" align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
-  <img width="44px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
-  <img width="48px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
+  <img width="41px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
+  <img width="44px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
   
 </div></td>
   </tr>
@@ -60,7 +60,7 @@
    <td width="50%" align="center">
     <h3> DevOps:</h3>
 
-<img width="95px" src="https://skillicons.dev/icons?i=jenkins,docker&perline=10"  />
+<img width="90px" src="https://skillicons.dev/icons?i=jenkins,docker&perline=10"  />
   </td>
 
   </tr>
@@ -75,7 +75,7 @@
    <td width="50%" align="center">
     <h3> Other Tools:</h3>
 
-<img width="145px" src="https://skillicons.dev/icons?i=idea,postman,vscode&perline=10"  />
+<img width="135px" src="https://skillicons.dev/icons?i=idea,postman,vscode&perline=10"  />
   </td>
 
   </tr>
