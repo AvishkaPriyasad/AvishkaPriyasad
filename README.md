@@ -31,7 +31,7 @@
   <tr border="none">
     <td width="50%" align="center"><h3> Front-end:</h3>
   
-<img width="250px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10"  /></td>
+<img width="290px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10"  /></td>
     <td width="50%" align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
