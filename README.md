@@ -113,7 +113,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img  align="center" width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=8"/>
+  <img  align="center" width="300" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AvishkaPriyasad&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
   
   </td>
 </tr>
