@@ -75,7 +75,7 @@
    <td width="50%" align="center">
     <h3> Other Tools:</h3>
 
-<img width="135px" src="https://skillicons.dev/icons?i=idea,postman,vscode&perline=10"  />
+<img width="180px" src="https://skillicons.dev/icons?i=selenium,postman,idea,vscode&perline=10"  />
   </td>
 
   </tr>
