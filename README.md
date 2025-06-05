@@ -29,74 +29,67 @@
 <p align="left">
 <table width="100%">
   <tr border="none">
-    <td width="33%" align="center"><h3> Front-end:</h3>
+    <td align="center"><h3> Front-end:</h3>
   
 <img width="290px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10"  /></td>
-    <td width="33%" align="center"><h3> Back-end:</h3>
+    <td align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
   <img width="41px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
   <img width="44px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
   
 </div></td>
- <td width="50%" align="center">
-    <h3> Other Tools:</h3>
 
-<img width="290px" src="https://skillicons.dev/icons?i=idea,vscode&perline=10"  />
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><h3> Databases:</h3>
+<td width="30%" align="center"><h3> Databases:</h3>
 
-<img width="150px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  /></td>
-  <td align="center"> <h3> Version Control:</h3>
+<img width="140px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  /></td>
 
-  <img width="42px" src="https://skillicons.dev/icons?i=git&perline=10"  /></td>
-
-  <td width="50%" align="center">
- <h3> Cloud Computing:</h3>
-
-<img width="100px" src="https://skillicons.dev/icons?i=aws,azure&perline=10"  />
  
-</td>
-    
   </tr>
   <tr>
-    
-<td width="50%" align="center">
+    <td width="30%" align="center">
  <h3> Mobile Development:</h3>
 
 <img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
  
 </td>
-   <td width="50%" align="center">
+
+
+  <td align="center"> <h3> Version Control:</h3>
+
+  <img width="42px" src="https://skillicons.dev/icons?i=git&perline=10"  /></td>
+
+  <td width="30%" align="center">
+ <h3> Cloud Computing:</h3>
+
+<img width="90px" src="https://skillicons.dev/icons?i=aws,azure&perline=10"  />
+ 
+</td>
+    
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+    <h3> Testing Tools:</h3>
+
+<img width="90px" src="https://skillicons.dev/icons?i=postman,selenium&perline=10"  />
+  </td>
+
+   <td width="30%" align="center">
     <h3> DevOps:</h3>
 
 <img width="90px" src="https://skillicons.dev/icons?i=jenkins,docker&perline=10"  />
   </td>
 
-  <td width="50%" align="center">
-    <h3> Testing Tools:</h3>
+  
 
-<img width="180px" src="https://skillicons.dev/icons?i=selenium,postman&perline=10"  />
-  </td>
-
-  </tr>
-   <tr>
-    
-<td width="50%" align="center">
- <h3> Cloud Computing:</h3>
-
-<img width="100px" src="https://skillicons.dev/icons?i=aws,azure&perline=10"  />
- 
-</td>
-   <td width="50%" align="center">
+  <td align="center">
     <h3> Other Tools:</h3>
 
-<img width="180px" src="https://skillicons.dev/icons?i=selenium,postman,idea,vscode&perline=10"  />
+<img width="90px" src="https://skillicons.dev/icons?i=idea,vscode&perline=10"  />
   </td>
 
   </tr>
+
 
 </table>
 
