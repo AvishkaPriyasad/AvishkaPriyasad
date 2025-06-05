@@ -36,74 +36,57 @@
 
 <div style="display: flex;">
   <img width="41px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
-  <img width="44px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
-  
-</div></td>
+  <img width="44px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />  
+</div>
+</td>
 
 <td width="30%" align="center"><h3> Databases:</h3>
-
-<img width="140px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  /></td>
-
+<img width="140px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  />
+</td>
  
   </tr>
-  <tr>
-    <td width="30%" align="center">
- <h3> Mobile Development:</h3>
-
-<img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
- 
-</td>
-
+  
+  <tr>  
+  <td width="30%" align="center">
+  <h3> Mobile Development:</h3>
+  <img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
+  </td>
 
   <td align="center"> <h3> Version Control:</h3>
-
-  <img width="42px" src="https://skillicons.dev/icons?i=git&perline=10"  /></td>
+  <img width="42px" src="https://skillicons.dev/icons?i=git&perline=10"  />
+  </td>
 
   <td width="30%" align="center">
- <h3> Cloud Computing:</h3>
-
-<img width="90px" src="https://skillicons.dev/icons?i=aws,azure&perline=10"  />
- 
-</td>
+   <h3> Cloud Computing:</h3>
+  <img width="90px" src="https://skillicons.dev/icons?i=aws,azure&perline=10"  />
+  </td>
     
   </tr>
   <tr>
     <td width="30%" align="center">
     <h3> Testing Tools:</h3>
-
-<img width="90px" src="https://skillicons.dev/icons?i=postman,selenium&perline=10"  />
+    <img width="90px" src="https://skillicons.dev/icons?i=postman,selenium&perline=10"  />
   </td>
 
    <td width="30%" align="center">
     <h3> DevOps:</h3>
-
-<img width="90px" src="https://skillicons.dev/icons?i=jenkins,docker&perline=10"  />
-  </td>
-
-  
+  <img width="90px" src="https://skillicons.dev/icons?i=jenkins,docker&perline=10"  />
+  </td>  
 
   <td align="center">
     <h3> Other Tools:</h3>
-
-<img width="90px" src="https://skillicons.dev/icons?i=idea,vscode&perline=10"  />
+    <img width="90px" src="https://skillicons.dev/icons?i=idea,vscode&perline=10"  />
   </td>
 
   </tr>
-
 
 </table>
 
 
 
-
-
-
-
-
-
 <br />
 
-<h2> Connect with Me : 🤝</h2> <!-- <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> -->
+<h2> Connect with Me : <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px"> </h2>
 <a href = 'https://www.linkedin.com/in/avishkapriyasad/'> <img width = '32px' align= 'center' src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/filled/linkedin.svg"/></a> 
 <a href="https://avishkapriyasad.github.io/portfolio/" target="blank"><img width = '37px' align="center" src="https://github.com/AvishkaPriyasad/portfolio/blob/8bbe97214fe9ea7c356e49a61afb46ccc5c7d877/Images/logoicon.png"/></a>
 <a href="https://medium.com/@avishkapriyasad" target="blank"><img width = '37px' align="center" src="https://github.com/CLorant/readme-social-icons/blob/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/medium/light/medium.svg"/></a>
