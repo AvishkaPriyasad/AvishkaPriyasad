@@ -13,7 +13,7 @@
 <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 
-- 🎓 I'm a third-year Undergraduate at Uva Wellassa University of Sri Lanka.
+- 🎓 I'm a fourth-year Undergraduate at Uva Wellassa University of Sri Lanka.
   
 - 📖 I'm currently learning Full Stack Development.
   
@@ -31,7 +31,7 @@
   <tr border="none">
     <td align="center"><h3> Front-end:</h3>
   
-<img width="290px" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&perline=10"  /></td>
+<img width="142px" src="https://skillicons.dev/icons?i=angular,react,tailwind&perline=10"  /></td>
     <td align="center"><h3> Back-end:</h3>
 
 <div style="display: flex;">
@@ -48,12 +48,12 @@
   
   <tr>  
   <td width="30%" align="center">
-  <h3> Mobile Development:</h3>
+  <h3> Mobile App:</h3>
   <img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
   </td>
 
   <td align="center"> <h3> Version Control:</h3>
-  <img width="42px" src="https://skillicons.dev/icons?i=git&perline=10"  />
+  <img width="142px" src="https://skillicons.dev/icons?i=github,git,bitbucket&perline=10"  />
   </td>
 
   <td width="30%" align="center">
