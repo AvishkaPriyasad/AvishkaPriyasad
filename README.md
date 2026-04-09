@@ -40,7 +40,7 @@
 </div>
 </td>
 
-<td width="30%" align="center"><h3> Databases:</h3>
+<td width="30%" align="center"><h3> Database:</h3>
 <img width="86px" src="https://skillicons.dev/icons?i=mysql,mongo&perline=10"  />
 </td>
  
