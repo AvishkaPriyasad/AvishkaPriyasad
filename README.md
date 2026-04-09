@@ -41,7 +41,7 @@
 </td>
 
 <td width="30%" align="center"><h3> Databases:</h3>
-<img width="140px" src="https://skillicons.dev/icons?i=mysql,mongo,firebase&perline=10"  />
+<img width="86px" src="https://skillicons.dev/icons?i=mysql,mongo&perline=10"  />
 </td>
  
   </tr>
@@ -49,11 +49,11 @@
   <tr>  
   <td width="30%" align="center">
   <h3> Mobile App:</h3>
-  <img width="150px" src="https://skillicons.dev/icons?i=dart,flutter,androidstudio&perline=10"  />
+  <img width="150px" src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase&perline=10"  />
   </td>
 
   <td align="center"> <h3> Version Control:</h3>
-  <img width="142px" src="https://skillicons.dev/icons?i=github,git,bitbucket&perline=10"  />
+  <img width="140px" src="https://skillicons.dev/icons?i=github,git,bitbucket&perline=10"  />
   </td>
    <td align="center">
     <h3> Other Tools:</h3>
