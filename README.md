@@ -36,7 +36,8 @@
 
 <div style="display: flex;">
   <img width="41px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"  />
-  <img width="44px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />  
+  <img width="41px" src="https://skillicons.dev/icons?i=spring&perline=10"  />
+  <img width="43px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />  
 </div>
 </td>
 
